@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1718712594 source:c:\users\gero\desktop\proyecto-final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718713146 source:c:\users\gero\desktop\proyecto-final\login.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
